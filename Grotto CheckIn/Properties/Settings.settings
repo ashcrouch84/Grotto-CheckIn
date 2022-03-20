@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Grotto_CheckIn.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="savedAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="savedControl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\User\Desktop\New folder\Control</Value>
+    </Setting>
+    <Setting Name="savedHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">access802899325.webspace-data.io</Value>
+    </Setting>
+    <Setting Name="savedUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">u98941559-a1</Value>
+    </Setting>
+    <Setting Name="savedPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">22</Value>
+    </Setting>
+    <Setting Name="savedPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Jadzia1984!</Value>
+    </Setting>
+    <Setting Name="savedPlace" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="savedInterval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="savedSofas" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
